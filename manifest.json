@@ -1,0 +1,16 @@
+{
+  "name": "Astra WebOS — Simple. Fast. Yours.",
+  "short_name": "Astra",
+  "description": "A complete, offline-first web operating system that runs in your browser.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#0b0d12",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b0d12'/%3E%3Cpath d='M16 5l3.2 8.4L27.6 16.6l-8.4 3.2L16 28l-3.2-8.2L4.4 16.6l8.4-3.2z' fill='%235b9dff'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
